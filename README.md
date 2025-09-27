@@ -1,2 +1,3 @@
 # learn-
-learning 
+this is my first repository.
+Author - Ashu 
